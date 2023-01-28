@@ -1,0 +1,2 @@
+# merilniksile
+Merilnik sile čeljusti
