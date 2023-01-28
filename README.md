@@ -1,2 +1,3 @@
-# merilniksile
-Merilnik sile čeljusti
+# Force meter
+System for measuring maximal bite force on front teeth 
+
